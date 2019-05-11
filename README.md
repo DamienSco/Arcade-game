@@ -5,9 +5,9 @@ The classic arcade game or Frogger game is an Udacity project. Using  `Object-Or
 
 ## Table of Contents
 
-* [Game Rules](#How-to-Play)
+* [How to Play](#How-to-Play)
 * [Tools & Techniques](#Tools-and-Techniques)
-* [Technical](#Assets)
+* [Assets](#Assets)
 * [Credits](#credits)
 
 ## How to Play
