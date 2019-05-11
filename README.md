@@ -23,15 +23,15 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 
 1.Starting the game
 
-<img src="./img/startingGame.png" width="450">
+<img src="./images/startingGame.png" width="450">
 
 2.Winning the game
 
-<img src="./img/winningGame.png" width="450">
+<img src="./images/winningGame.png" width="450">
 
 3.Losing the game
 
-<img src="./img/losingGame.png" width="450">
+<img src="./images/losingGame.png" width="450">
 
 
 
