@@ -20,6 +20,7 @@ The classic arcade game or Frogger game is an Udacity project. Using  `Object-Or
 
 3. Use the arrow of your keyboard to start the game 
 
+
 ## How to Play
 
 In this game you have a Player and Enemies (bugs). The goal of the player is to reach the water and 1000 points, without colliding into any one of the enemies.
@@ -42,7 +43,6 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 <img src="./images/losingGame.png" width="450">
 
 
-
 ## Tools and Techniques
 
 * Object-Oriented JavaScript
@@ -50,6 +50,7 @@ In this game you have a Player and Enemies (bugs). The goal of the player is to 
 * prototypal inheritance
 * HTML5 Canvas API
 * resource loading via immediately-invoked function expressions (IIFE)
+
 
 ## Assets
 
@@ -60,6 +61,7 @@ This project consists of the following assets:
 * **app.css** - contains all the board actions & logic.
 * **engine.js** - contains the game logic and engine.
 * **ressource.js** - contains all the ressources.
+
 
 ## Credits
 
