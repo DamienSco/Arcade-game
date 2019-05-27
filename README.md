@@ -1,6 +1,6 @@
 # Arcade Game Project
 
-The classic arcade game or Frogger game is an Udacity project. Using  `Object-Oriented JavaScript`  and `Object contructor`enable an interactive experience while having fun.
+The classic arcade game or Frogger game is an Udacity project. Using  `Object-Oriented JavaScript`  and `Object constructor`enable an interactive experience while having fun.
 
 
 ## Table of Contents
