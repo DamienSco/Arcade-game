@@ -14,9 +14,9 @@ The classic arcade game or Frogger game is an Udacity project. Using  `Object-Or
 
 ## How to Run the Application
 
-1. You can download or clone this repository.
-
-2. Find the `index.html` file, and open the file in a modern browser.
+1. You can download or clone this repository
+ 
+2. Find the `index.html` file, and open the file in a modern browser
 
 3. Use the arrow of your keyboard to start the game 
 
